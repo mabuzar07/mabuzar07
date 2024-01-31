@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abuzar</h1>
 <h3 align="center">Fullstack Javascript Developer from Pakistan</h3>
 
-- 💬 Ask me about **Javascript | Node Js | Typescript | MongoDB | MySQL  | HTML5 | CSS | GraphQL | JQuery | RESTful services and JSON | Composer | ES6 | GIT | CI/CD | Jenkins | Docker | Unit Testing | Integration Testing | AWS | Swagger | Webpack | MVC | Agile**
+- 💬 Ask me about **Javascript | Node Js | React Js | Next Js | Typescript | MongoDB | MySQL  | HTML5 | CSS | GraphQL | JQuery | RESTful services and JSON | Composer | ES6 | GIT | CI/CD | Jenkins | Docker | Unit Testing | Integration Testing | AWS | Swagger | Webpack | MVC | Agile**
 
 - 🌱 I’m currently working on **Custom AI base support agent** 
 
@@ -10,6 +10,22 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://nodejs.org/static/images/logo.svg"
+      alt="nodejs"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img
+      src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K"
+      alt="reactjs"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
