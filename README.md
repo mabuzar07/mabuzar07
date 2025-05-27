@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abuzar</h1>
 <h3 align="center">Fullstack Javascript Developer from Pakistan</h3>
 
-- 💬 Ask me about **Javascript | Node Js | React Js | Next Js | Typescript | MongoDB | MySQL  | HTML5 | CSS | GraphQL | JQuery | RESTful services and JSON | Composer | ES6 | GIT | CI/CD | Jenkins | Docker | Unit Testing | Integration Testing | AWS | Swagger | Webpack | MVC | Agile**
+- 💬 Ask me about **Javascript | Node Js | Python | AI Automation | AI Development | React Js | Next Js | Typescript | MongoDB | MySQL  | HTML5 | CSS | GraphQL | JQuery | RESTful services and JSON | Composer | ES6 | GIT | CI/CD | Jenkins | Docker | Unit Testing | Integration Testing | AWS | Swagger | Webpack | MVC | Agile**
 
 - 🌱 I’m currently working on **Custom AI base support agent** 
 
