@@ -221,6 +221,4 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=babarmalik6444&" alt="babarmalik6444" /></p>
-
 
